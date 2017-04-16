@@ -1,0 +1,93 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+height: 100%;
+}
+body {
+background-color: #B7DBF3;
+font-family: helvetica, sans-serif;
+background-image: url(https://cdn.pixabay.com/photo/2016/09/02/23/01/rain-1640546_960_720.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+max-width: 100%;
+max-height: 100%;
+margin:0;
+color: #a6e3ed;
+}
+
+img {
+  height: 60%;
+  width: 60%;
+  padding-left:40px;
+
+}
+
+
+
+}
+header {
+  background-color: #C2E8CF;
+  color: #FFFFFF
+  padding: 10px;
+  font-size:24;
+  color: #28577F;
+  margin: 5px;
+}
+nav {
+  float: left;
+  border-radius: 10px;
+  border-color: #28577F;
+  border-style:dotted;
+  width:100%;
+}
+nav ul {
+  padding:5px ;
+  float: left;
+  list-style-type: none;
+}
+nav li {
+  float: left;
+}
+nav li a {
+  display: block;
+  height: 25px;
+  padding: 12px 18px 8px 18px;
+  vertical-align: middle;
+}
+a {
+  color: 28577F;
+}
+section {
+  width: 73%;
+  display: inline-block;
+  float: left;
+
+}
+.lightgreenbackground{
+background-color: C2E8CF;
+
+}
+aside {
+  width: 17%;
+  display: inline-block;
+  background-color:;
+  padding:;
+  min-height: 100%;
+}
+aside ul {
+  list-style-type: none;
+}
+footer {
+  width: 790px;
+  background-color:;
+  color:;
+  clear: both;
+  display: block;
+}
+h2 {
+color:000000;
+}
